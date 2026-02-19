@@ -1,8 +1,6 @@
-# Hi there! <img src="https://raw.githubusercontent.com/martinlotter/martinlotter/master/assets/hand-wave.gif" width="30px">
-### I'm a [Your Name]
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Fullstack+Developer;Machine+Learning+Enthusiast;System+Architecture+Explorer;Minimalist+%26+Finance+Advocate">
-</p>
+# Hi there! I'm Ngoc Duc
+
+---
 
 I'm a passionate Software Developer and a wannabe TechChanger focused on building clean, efficient, and scalable web applications.
 
