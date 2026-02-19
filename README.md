@@ -1,7 +1,5 @@
 # Hi there! I'm Ngoc Duc
 
----
-
 I'm a passionate Software Developer and a wannabe TechChanger focused on building clean, efficient, and scalable web applications.
 
 - 🔭 I'm currently studying at PTIT.
