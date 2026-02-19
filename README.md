@@ -25,4 +25,4 @@ I'm a passionate Software Developer and a wannabe TechChanger focused on buildin
 ---
 
 ### 📊 GitHub Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vjttapcode&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vjttapcode&show_icons=true&theme=radical)
